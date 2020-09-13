@@ -7,9 +7,6 @@ import javax.swing.plaf.FontUIResource;
 import java.awt.*;
 import java.util.Enumeration;
 
-/**
- * 测试
- */
 public class TestDemo {
     public static void main(String[] args) {
         initGlobalFont(new Font("微软雅黑", Font.BOLD, 12));
