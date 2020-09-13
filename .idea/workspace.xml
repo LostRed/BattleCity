@@ -27,7 +27,7 @@
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.24252874" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RunManager">
     <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -43,13 +43,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,6 +81,7 @@
       <workItem from="1599992183920" duration="156000" />
       <workItem from="1599992392325" duration="51000" />
       <workItem from="1599992514511" duration="47000" />
+      <workItem from="1599993139194" duration="356000" />
     </task>
     <servers />
   </component>
@@ -147,10 +150,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="181" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599992025199" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1599992186760">
+    <state x="407" y="117" width="1110" height="779" key="SettingsEditor" timestamp="1599993469854">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599992186760" />
+    <state x="407" y="117" width="1110" height="779" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599993469854" />
     <state x="335" y="129" key="new project wizard" timestamp="1599991845387">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
