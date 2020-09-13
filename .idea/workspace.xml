@@ -23,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MineSweeper" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.24252874" />
@@ -66,6 +66,7 @@
       <workItem from="1599991808620" duration="145000" />
       <workItem from="1599991959003" duration="66000" />
       <workItem from="1599992183920" duration="156000" />
+      <workItem from="1599992392325" duration="51000" />
     </task>
     <servers />
   </component>
@@ -114,10 +115,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1599991886651" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1599992024414">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1599992413086">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599992024414" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599992413086" />
     <state width="1877" height="181" key="GridCell.Tab.0.bottom" timestamp="1599992025199">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
