@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8006dad-4169-47a5-816f-7fc5237f3b50" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hS2uAF6HihxJJmsym8Vf9RwWmt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24252874" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lostred.bc.test.TestDemo" />
+      <module name="BattleCity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lostred.bc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8006dad-4169-47a5-816f-7fc5237f3b50" name="Default Changelist" comment="" />
+      <created>1599990392416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599990392416</updated>
+      <workItem from="1599990393464" duration="59000" />
+      <workItem from="1599990494684" duration="10000" />
+      <workItem from="1599990991313" duration="253000" />
+      <workItem from="1599991466196" duration="204000" />
+      <workItem from="1599991686850" duration="81000" />
+      <workItem from="1599991784022" duration="15000" />
+      <workItem from="1599991808620" duration="145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:E:/Workshop/Java/Project/GitHub/BattleCity/data" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1599991886651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1599991886651" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1599991884581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599991884581" />
+    <state width="1877" height="181" key="GridCell.Tab.0.bottom" timestamp="1599991767713">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="181" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599991767713" />
+    <state width="1877" height="181" key="GridCell.Tab.0.center" timestamp="1599991767712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="181" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599991767712" />
+    <state width="1877" height="181" key="GridCell.Tab.0.left" timestamp="1599991767712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="181" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599991767712" />
+    <state width="1877" height="181" key="GridCell.Tab.0.right" timestamp="1599991767713">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="181" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599991767713" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1599991908522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599991908522" />
+    <state x="335" y="129" key="new project wizard" timestamp="1599991845387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="335" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1599991845387" />
+  </component>
+</project>
